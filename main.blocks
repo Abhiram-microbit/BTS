@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id=":)R*YJ:Ot2bu7SGB7BeM" x="230" y="-128"><statement name="HANDLER"><block type="device_show_leds" id="Jks-|Nf-4u]e;^S8wDbR"><field name="LEDS">`
+        # . . . # 
+        # # . # # 
+        # # . # # 
+        # # . # # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="XXn)w|!#!mIF1|h}3*Lk"><field name="LEDS">`
+        . # . # . 
+        # # . # # 
+        # # . # # 
+        # # . # # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="258;FfL$wN#55-plP3@:"><field name="LEDS">`
+        # # # # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="x`j$$a6X,(ssp]71ng;h"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="$Be1kQnQ@qicW^ea/#P|"><field name="LEDS">`
+        # # # # . 
+        # . . . . 
+        # # # # . 
+        . . . # . 
+        # # # # .
+        `</field><next><block type="device_print_message" id=",[.UkmiMxE:QJk`LbuCu"><value name="text"><shadow type="text" id="i~9_CNZJDcU4KnBwV7sZ"><field name="TEXT">BTS ARMY</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="h,FJN(7DO$xg|]yt(fH;" x="0" y="0"></block></xml>
